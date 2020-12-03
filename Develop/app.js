@@ -90,7 +90,7 @@ const internQuestions = [
     {
         type: 'input',
         name: 'id',
-        message: "What is their number?",
+        message: "What is their id number?",
         validate: function (value) {
             if (value.trim() == '') {
                 return 'Please enter a valid id';
