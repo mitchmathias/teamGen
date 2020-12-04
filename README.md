@@ -1,4 +1,4 @@
-# teamGen
+# TeamGen
 ## Creator 
 
 Mitchell Mathias 
@@ -13,3 +13,7 @@ THEN answers will be saved and added to your page automatically after completion
 ## Questions
 
 mitch.mathias96@gmail.com 
+
+## Result 
+
+![image](Assets/TeamGenScreenshot.png)
